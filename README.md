@@ -1,6 +1,6 @@
 # Robust CIFAR-10 Classification from 500 Images
 
-**Course:** Deep Learning for Perception, Assignment 2 (Section B), Fall 2026
+**Course:** Deep Learning for Perception, Assignment 2 (Section E), Fall 2026
 **Author:** Amama (23F-6014), FAST NUCES
 
 Train a small CNN from scratch on only 500 CIFAR-10 images (400 train / 100 validation) and make it hold up on a **shifted** test set (rotation, brightness/contrast change, blur, noise, a hidden colour corruption and a random occlusion).
