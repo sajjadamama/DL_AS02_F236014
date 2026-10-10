@@ -10,7 +10,8 @@ Train a small CNN from scratch on only 500 CIFAR-10 images (400 train / 100 vali
 | File | Description |
 |---|---|
 | `DL_ASS02_23F_6014.ipynb` | Complete, executed notebook (Parts A to F) with all outputs and plots |
-| `Assignment2_Report.docx` | One-page results summary |
+| `DL_ASS02_23F_6014_Report.docx` | One-page results summary |
+| `DL_ASS02_23F_6014_Handwritten.docx` | Handwritten |
 | `README.md` | This file |
 
 ## Results
